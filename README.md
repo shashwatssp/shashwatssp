@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Amazon Clone](https://github.com/shashwatssp/amazon_clone)
 
-- 🌱 I’m currently learning **Appwrite,Shell,JavaScript**
+- 🌱 I’m currently interested in learning **Appwrite,JavaScript**
 
 - 👯 I’m looking to collaborate on [Memeverse](https://github.com/shashwatssp/memeverse)
 
 - 🤝 I’m looking for help with [ShashwatGPT](https://github.com/shashwatssp/shashwatGPT)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shashwatssp?tab=repositories](https://github.com/shashwatssp?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/shashwatssp?tab=repositories)
 
-- 📝 I regularly tweet @ [https://twitter.com/Shashwat_ssp](https://twitter.com/Shashwat_ssp)
+- 📝 I regularly tweet @ [My Twitter](https://twitter.com/Shashwat_ssp)
 
 - 💬 Ask me about **CP,DSA,Dart,Firebase**
 

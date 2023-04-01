@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shashwatshagunpandey@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15vIqzcbmxghP55Oeuk1U0VajU5wj8hQs/view](https://drive.google.com/file/d/15vIqzcbmxghP55Oeuk1U0VajU5wj8hQs/view)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/15vIqzcbmxghP55Oeuk1U0VajU5wj8hQs/view)
 
 - ⚡ Fun fact **I think I am Funny**
 

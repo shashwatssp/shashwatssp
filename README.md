@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwat Shagun Pandey</h1>
-<h3 align="center">A pre-final year Computer Science Undergrad from Madan Mohan Malaviya University of Technology, Gorakhpur</h3>
+<h3 align="center">A final year Computer Science Undergrad from Madan Mohan Malaviya University of Technology, Gorakhpur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatssp&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatssp" /> </p>
 

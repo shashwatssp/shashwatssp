@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatssp&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatssp" /> </p>
 
-- 🔭 I’m currently working on [Amazon Clone](https://github.com/shashwatssp/amazon_clone)
+- 🔭 I’m currently working on [intelli-Traffic]
 
 - 🌱 I’m currently interested in learning **Appwrite,JavaScript**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shashwatshagunpandey@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1US4fFwthP2SaqBZAdJ4TZal2Vv_ZT3ES/view)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1kLfWaUdjnkvdIAnYVaFsKlx0fdPVH8Eo/view)
 
 - ⚡ Life Changing Advice **Life is too short, don't waste it stalking someone's Github**
 

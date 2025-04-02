@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **DSA, Competitive Programming, Dart, Firebase, React**
 - 📫 Reach out to me at **shashwatshagunpandey@gmail.com**
-- 📄 Learn more about my experiences in my [Resume](https://drive.google.com/file/d/1kLfWaUdjnkvdIAnYVaFsKlx0fdPVH8Eo/view)
   
 ---
 

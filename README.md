@@ -1,6 +1,6 @@
 # Shashwat Shagun Pandey
 
-## 👨‍💻 Software Engineer | React | Golang | Flutter Developer
+## 👨‍💻 Software Engineer | React | Flutter Developer
 
 <div align="center">
   

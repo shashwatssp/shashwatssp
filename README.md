@@ -67,9 +67,6 @@ I'm a Software Engineer with expertise in React and Flutter development. Current
       <td width="50%">
         <h3 align="center">Fast7 - SaaS Restaurant Website Builder</h3>
         <div align="center">
-          <a href="https://github.com/shashwatssp/Fast7" target="_blank">
-            <img src="https://raw.githubusercontent.com/shashwatssp/portfolio-assets/main/fast7-thumbnail.png" width="250" alt="Fast7 Project"/>
-          </a>
           <p>
             <a href="https://github.com/shashwatssp/Fast7" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
@@ -84,9 +81,6 @@ I'm a Software Engineer with expertise in React and Flutter development. Current
       <td width="50%">
         <h3 align="center">ShhhDrop - Encrypted Anonymous Texting</h3>
         <div align="center">
-          <a href="https://github.com/shashwatssp/ShhhDrop" target="_blank">
-            <img src="https://raw.githubusercontent.com/shashwatssp/portfolio-assets/main/shhhdrop-thumbnail.png" width="250" alt="ShhhDrop Project"/>
-          </a>
           <p>
             <a href="https://github.com/shashwatssp/ShhhDrop" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
@@ -103,9 +97,6 @@ I'm a Software Engineer with expertise in React and Flutter development. Current
       <td width="50%">
         <h3 align="center">ChessVsDeepSeek - AI Chess Game</h3>
         <div align="center">
-          <a href="https://github.com/shashwatssp/ChessVsDeepSeek" target="_blank">
-            <img src="https://raw.githubusercontent.com/shashwatssp/portfolio-assets/main/chess-thumbnail.png" width="250" alt="Chess Project"/>
-          </a>
           <p>
             <a href="https://github.com/shashwatssp/ChessVsDeepSeek" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
@@ -120,9 +111,6 @@ I'm a Software Engineer with expertise in React and Flutter development. Current
       <td width="50%">
         <h3 align="center">intelli-Traffic - Smart Traffic Solution</h3>
         <div align="center">
-          <a href="https://github.com/shashwatssp/intelli-Traffic" target="_blank">
-            <img src="https://raw.githubusercontent.com/shashwatssp/portfolio-assets/main/traffic-thumbnail.png" width="250" alt="Intelli-Traffic Project"/>
-          </a>
           <p>
             <a href="https://github.com/shashwatssp/intelli-Traffic" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
@@ -148,7 +136,7 @@ I'm a Software Engineer with expertise in React and Flutter development. Current
         <h3>Lowe's</h3>
         <p><em>Associate Software Engineer | Jul 2024 - Present</em></p>
         <ul>
-          <li>Gaining in-depth expertise in <strong>React</strong>, <strong>Golang</strong>, and <strong>Kubernetes</strong>, while contributing to the development of internal <strong>CI/CD</strong> and <strong>Pipelines</strong> tools designed to replace Jenkins</li>
+          <li>Gaining in-depth expertise in <strong>React</strong>, <strong>Golang</strong>, and <strong>Kubernetes</strong>, while contributing to the development of internal <strong>CI/CD</strong> and <strong>Pipelines</strong> tools.</li>
         </ul>
       </td>
     </tr>

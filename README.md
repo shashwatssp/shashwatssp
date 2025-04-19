@@ -2,133 +2,226 @@
 
 ## 👨‍💻 Software Engineer | React | Golang | Flutter Developer
 
-[LinkedIn](https://linkedin.com/in/shashwatssp) | [Email](mailto:shashwtssp@gmail.com) | [Coding Profiles](https://codolio.com/profile/shashwatssp) | [GitHub](https://github.com/shashwatssp) | [Mobile](tel:+919198880990)
-
-## About Me
-I'm a Software Engineer with expertise in React, Golang, and Flutter development. Currently working at Lowe's on CI/CD tools, I'm passionate about building efficient and user-friendly applications. With a strong foundation in competitive programming (Pupil on Codeforces, 3-Star on CodeChef) and 1600+ solved problems across platforms, I bring analytical problem-solving skills to every project.
-
-## 🛠️ Skills & Technologies
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![LoopBack](https://img.shields.io/badge/-LoopBack-3F5DFF?style=flat&logo=loopback&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-## 🚀 Projects
-
-### [Fast7](https://github.com/shashwatssp/Fast7) - SaaS Restaurant Website Builder
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/-Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)
-
-A SaaS platform with mobile-first architecture enabling restaurant owners to deploy professional websites within 7 minutes through an intuitive interface with zero coding required. Implemented robust restaurant management features including order control toggles, menu item customization, and dynamic photo selection for seamless digital menu presentation and business operations.
-
-[Live Demo](https://fast7.netlify.app) (Best viewed on mobile)
-
-### [ShhhDrop](https://github.com/shashwatssp/ShhhDrop) - Encrypted Anonymous Texting Platform
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![CryptoJs](https://img.shields.io/badge/-CryptoJs-000000?style=flat&logo=javascript&logoColor=white)
-
-Secure, encrypted anonymous messaging platform enabling private communication without identity exposure.
-
-[Live Demo](https://shhhdrop.netlify.app/) (Best viewed on mobile)
-
-### [ChessVsDeepSeek](https://github.com/shashwatssp/ChessVsDeepSeek) - Chess Game against AI
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-Interactive chess game featuring AI opponent with integrated leaderboard to track top players.
-
-[Live Demo](https://chessvsdeepseek.netlify.app/)
-
-### [intelli-Traffic](https://github.com/shashwatssp/intelli-Traffic) - Smart Traffic Solution
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-AI-powered application solving real-world traffic issues for both public and government sectors.
-
-[Demo Video](https://youtube.com/watch?v=RO9g0mCYVV8)
-
-## 💼 Experience
-
-### Lowe's (Jul 2024 - Present)
-**Associate Software Engineer**
-- Gaining in-depth expertise in React, Golang, and Kubernetes, while contributing to the development of internal CI/CD and Pipelines tools designed to replace Jenkins
-- Improved the deployment process, increasing efficiency by 15%, resulting in faster and more reliable releases
-- Added new features that enhanced user experience, making the tool more intuitive and effective for developers
-
-### MFine (Mar 2024 - Jul 2024)
-**SDE Intern**
-- Contributed to the backend of a B2B healthcare product using Node.js, MongoDB, and LoopBack 3
-- Integrated Claim Service and TPA systems for policy year-based claim handling, improving operational efficiency
-- Enhanced search functionality in Console Shylock, increasing user efficiency by 25%
-
-### Cillyfox (Jun 2023 - Dec 2023)
-**Software Engineering Intern**
-- Enhanced the MJK Sample Transport App, used by 310 hospitals and 76 labs across 8 states, improving delivery efficiency and reducing transportation time by 15-20% using Flutter and Laravel
-- Led interface redesign, reducing loading time by 35-40%, and implemented resilient data-saving and optimized API synchronizations for uninterrupted operations
-
-## 🏆 Achievements
-
-- **Competitive Programming**
-  - Pupil on [Codeforces](https://codeforces.com/profile/shashwatssp) (Max Rating: 1376)
-  - 3-Star Coder on [CodeChef](https://www.codechef.com/users/shashwatssp) (Max Rating: 1690)
-  - Global Rank 49 in [CodeChef Starters 102](https://www.codechef.com/rankings/START102C?itemsPerPage=100&order=asc&page=1&search=shashwatssp&sortBy=rank)
-  - Global Rank 156 in [CodeChef Starters 67](https://www.codechef.com/rankings/START67B?itemsPerPage=100&order=asc&page=1&search=shashwatssp&sortBy=rank)
+<div align="center">
   
-- **Problem Solving**
-  - Solved 1600+ problems across multiple coding platforms
-  - 600+ DSA problems solved on [LeetCode](https://leetcode.com/u/shashwatssp/)
-  - Participated in 140+ coding contests
-  
-- **Hackathons**
-  - 2nd Position at ByteGram (500+ participants)
-
-## 🎓 Education
-
-**Madan Mohan Malaviya University of Technology** (Dec 2020 - May 2024)  
-Bachelor of Technology - Computer Science and Engineering  
-CGPA: 7.91
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashwatssp&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashwatssp&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatssp&layout=compact&theme=radical)
-
-## 📫 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwatssp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwtssp@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashwatssp)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shashwatssp)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shashwatssp)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shashwatssp/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codolio.com/profile/shashwatssp)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shashwatssp&color=blueviolet)
+</div>
+
+## 🧠 About Me
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRoYmptb2hkYmY1bHhjYWxsYjFncWhuajcwMGN5Y3RuNXRnZGlkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+I'm a Software Engineer with expertise in React, Golang, and Flutter development. Currently working at Lowe's on CI/CD tools, I'm passionate about building efficient and user-friendly applications. With a strong foundation in competitive programming (Pupil on Codeforces, 3-Star on CodeChef) and 1600+ solved problems across platforms, I bring analytical problem-solving skills to every project.
+
+- 🔭 I'm currently working on **CI/CD and Pipelines tools at Lowe's**
+- 🌱 I'm constantly learning **Modern Software Architecture & Cloud Technologies**
+- 💬 Ask me about **React, Golang, Flutter, DSA, and Competitive Programming**
+- ⚡ Fun fact: **I've solved over 600 problems on LeetCode!**
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![LoopBack](https://img.shields.io/badge/-LoopBack-3F5DFF?style=flat-square&logo=loopback&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+  
+</div>
+
+## 📊 Coding Profiles & Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://leetcard.jacoblin.cool/shashwatssp?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" width="100%"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shashwatssp&theme=dark" width="100%" alt="Codeforces Stats"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Fast7 - SaaS Restaurant Website Builder</h3>
+        <div align="center">
+          <a href="https://github.com/shashwatssp/Fast7" target="_blank"><img src="https://raw.githubusercontent.com/jsuarezruiz/awesome-dotnet-maui/master/images/dotnet-bot.png" width="100" alt="Project"/></a>
+          <p>
+            <a href="https://github.com/shashwatssp/Fast7" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+            </a>
+            <a href="https://fast7.netlify.app" target="_blank">
+              <img src="https://img.shields.io/badge/See_It_Yourself-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>React, TypeScript, Tailwind CSS, Vite, Google OAuth</strong> - A SaaS platform with mobile-first architecture enabling restaurant owners to deploy professional websites within 7 minutes through an intuitive interface.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">ShhhDrop - Encrypted Anonymous Texting</h3>
+        <div align="center">
+          <a href="https://github.com/shashwatssp/ShhhDrop" target="_blank"><img src="https://raw.githubusercontent.com/jsuarezruiz/awesome-dotnet-maui/master/images/dotnet-bot.png" width="100" alt="Project"/></a>
+          <p>
+            <a href="https://github.com/shashwatssp/ShhhDrop" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+            </a>
+            <a href="https://shhhdrop.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/badge/See_It_Yourself-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>React, Firebase, Vite, CryptoJs</strong> - Secure, encrypted anonymous messaging platform enabling private communication without identity exposure.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">ChessVsDeepSeek - AI Chess Game</h3>
+        <div align="center">
+          <a href="https://github.com/shashwatssp/ChessVsDeepSeek" target="_blank"><img src="https://raw.githubusercontent.com/jsuarezruiz/awesome-dotnet-maui/master/images/dotnet-bot.png" width="100" alt="Project"/></a>
+          <p>
+            <a href="https://github.com/shashwatssp/ChessVsDeepSeek" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+            </a>
+            <a href="https://chessvsdeepseek.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/badge/See_It_Yourself-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>React, Firebase, Vite</strong> - Interactive chess game featuring AI opponent with integrated leaderboard to track top players.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">intelli-Traffic - Smart Traffic Solution</h3>
+        <div align="center">
+          <a href="https://github.com/shashwatssp/intelli-Traffic" target="_blank"><img src="https://raw.githubusercontent.com/jsuarezruiz/awesome-dotnet-maui/master/images/dotnet-bot.png" width="100" alt="Project"/></a>
+          <p>
+            <a href="https://github.com/shashwatssp/intelli-Traffic" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+            </a>
+            <a href="https://youtube.com/watch?v=RO9g0mCYVV8" target="_blank">
+              <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Flutter, Firebase, LangChain, OpenAI</strong> - AI-powered application solving real-world traffic issues for both public and government sectors.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💼 Professional Experience
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>Lowe's</h3>
+        <p><em>Associate Software Engineer | Jul 2024 - Present</em></p>
+        <ul>
+          <li>Gaining in-depth expertise in <strong>React</strong>, <strong>Golang</strong>, and <strong>Kubernetes</strong>, while contributing to the development of internal <strong>CI/CD</strong> and <strong>Pipelines</strong> tools designed to replace Jenkins</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>MFine</h3>
+        <p><em>SDE Intern | Mar 2024 - Jul 2024</em></p>
+        <ul>
+          <li>Contributed to the backend of a B2B healthcare product using <strong>Node.js</strong>, <strong>MongoDB</strong>, and <strong>LoopBack 3</strong></li>
+          <li>Integrated <strong>Claim Service</strong> and <strong>TPA</strong> systems for policy year-based claim handling, improving operational efficiency</li>
+          <li>Enhanced search functionality in <strong>Console Shylock</strong>, increasing user efficiency by <strong>25%</strong></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Cillyfox</h3>
+        <p><em>Software Engineering Intern | Jun 2023 - Dec 2023</em></p>
+        <ul>
+          <li>Enhanced the <strong>MJK Sample Transport App</strong>, used by <strong>310 hospitals</strong> and <strong>76 labs</strong> across <strong>8 states</strong>, improving delivery efficiency and reducing transportation time by <strong>15-20%</strong> using <strong>Flutter</strong> and <strong>Laravel</strong></li>
+          <li>Led interface redesign, reducing loading time by <strong>35-40%</strong>, and implemented resilient data-saving and optimized API synchronizations for uninterrupted operations</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>Competitive Programming</h3>
+        <ul>
+          <li>Pupil on <a href="https://codeforces.com/profile/shashwatssp">Codeforces</a> (Max Rating: 1376)</li>
+          <li>3-Star Coder on <a href="https://www.codechef.com/users/shashwatssp">CodeChef</a> (Max Rating: 1690)</li>
+          <li>Global Rank 49 in <a href="https://www.codechef.com/rankings/START102C?itemsPerPage=100&order=asc&page=1&search=shashwatssp&sortBy=rank">CodeChef Starters 102</a></li>
+          <li>Global Rank 156 in <a href="https://www.codechef.com/rankings/START67B?itemsPerPage=100&order=asc&page=1&search=shashwatssp&sortBy=rank">CodeChef Starters 67</a></li>
+        </ul>
+      </td>
+      <td>
+        <h3>Problem Solving & Hackathons</h3>
+        <ul>
+          <li>Solved <strong>1600+</strong> problems across multiple coding platforms</li>
+          <li><strong>600+</strong> DSA problems solved on <a href="https://leetcode.com/u/shashwatssp/">LeetCode</a></li>
+          <li>Participated in <strong>140+</strong> coding contests</li>
+          <li>2nd Position at ByteGram (500+ participants)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🎓 Education
+
+<div align="center">
+  <h3>Madan Mohan Malaviya University of Technology</h3>
+  <p><em>Bachelor of Technology - Computer Science and Engineering | Dec 2020 - May 2024</em></p>
+  <p>CGPA: 7.91</p>
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashwatssp&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatssp&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=shashwatssp&color=blueviolet)
+  
+</div>
 
 ---
 
-⭐️ From [shashwatssp](https://github.com/shashwatssp)
+<div align="center">
+  ⭐️ From <a href="https://github.com/shashwatssp">shashwatssp</a>
+</div>

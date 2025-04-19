@@ -17,12 +17,8 @@
 ## 🧠 About Me
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRoYmptb2hkYmY1bHhjYWxsYjFncWhuajcwMGN5Y3RuNXRnZGlkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a Software Engineer with expertise in React, Golang, and Flutter development. Currently working at Lowe's on CI/CD tools, I'm passionate about building efficient and user-friendly applications. With a strong foundation in competitive programming (Pupil on Codeforces, 3-Star on CodeChef) and 1600+ solved problems across platforms, I bring analytical problem-solving skills to every project.
+I'm a Software Engineer with expertise in React and Flutter development. Currently working at Lowe's, I'm passionate about building efficient and user-friendly applications. With a strong foundation in competitive programming (Pupil on Codeforces, 3-Star on CodeChef) and 1600+ solved problems across platforms, I bring analytical problem-solving skills to every project.
 
-- 🔭 I'm currently working on **CI/CD and Pipelines tools at Lowe's**
-- 🌱 I'm constantly learning **Modern Software Architecture & Cloud Technologies**
-- 💬 Ask me about **React, Golang, Flutter, DSA, and Competitive Programming**
-- ⚡ Fun fact: **I've solved over 600 problems on LeetCode!**
 
 ## 🛠️ Skills & Technologies
 
@@ -71,13 +67,15 @@ I'm a Software Engineer with expertise in React, Golang, and Flutter development
       <td width="50%">
         <h3 align="center">Fast7 - SaaS Restaurant Website Builder</h3>
         <div align="center">
-          <a href="https://github.com/shashwatssp/Fast7" target="_blank"><img src="https://raw.githubusercontent.com/jsuarezruiz/awesome-dotnet-maui/master/images/dotnet-bot.png" width="100" alt="Project"/></a>
+          <a href="https://github.com/shashwatssp/Fast7" target="_blank">
+            <img src="https://raw.githubusercontent.com/shashwatssp/portfolio-assets/main/fast7-thumbnail.png" width="250" alt="Fast7 Project"/>
+          </a>
           <p>
             <a href="https://github.com/shashwatssp/Fast7" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
             </a>
             <a href="https://fast7.netlify.app" target="_blank">
-              <img src="https://img.shields.io/badge/See_It_Yourself-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
             </a>
           </p>
           <p><strong>React, TypeScript, Tailwind CSS, Vite, Google OAuth</strong> - A SaaS platform with mobile-first architecture enabling restaurant owners to deploy professional websites within 7 minutes through an intuitive interface.</p>
@@ -86,13 +84,15 @@ I'm a Software Engineer with expertise in React, Golang, and Flutter development
       <td width="50%">
         <h3 align="center">ShhhDrop - Encrypted Anonymous Texting</h3>
         <div align="center">
-          <a href="https://github.com/shashwatssp/ShhhDrop" target="_blank"><img src="https://raw.githubusercontent.com/jsuarezruiz/awesome-dotnet-maui/master/images/dotnet-bot.png" width="100" alt="Project"/></a>
+          <a href="https://github.com/shashwatssp/ShhhDrop" target="_blank">
+            <img src="https://raw.githubusercontent.com/shashwatssp/portfolio-assets/main/shhhdrop-thumbnail.png" width="250" alt="ShhhDrop Project"/>
+          </a>
           <p>
             <a href="https://github.com/shashwatssp/ShhhDrop" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
             </a>
             <a href="https://shhhdrop.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/badge/See_It_Yourself-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
             </a>
           </p>
           <p><strong>React, Firebase, Vite, CryptoJs</strong> - Secure, encrypted anonymous messaging platform enabling private communication without identity exposure.</p>
@@ -103,13 +103,15 @@ I'm a Software Engineer with expertise in React, Golang, and Flutter development
       <td width="50%">
         <h3 align="center">ChessVsDeepSeek - AI Chess Game</h3>
         <div align="center">
-          <a href="https://github.com/shashwatssp/ChessVsDeepSeek" target="_blank"><img src="https://raw.githubusercontent.com/jsuarezruiz/awesome-dotnet-maui/master/images/dotnet-bot.png" width="100" alt="Project"/></a>
+          <a href="https://github.com/shashwatssp/ChessVsDeepSeek" target="_blank">
+            <img src="https://raw.githubusercontent.com/shashwatssp/portfolio-assets/main/chess-thumbnail.png" width="250" alt="Chess Project"/>
+          </a>
           <p>
             <a href="https://github.com/shashwatssp/ChessVsDeepSeek" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
             </a>
             <a href="https://chessvsdeepseek.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/badge/See_It_Yourself-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Play_Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
             </a>
           </p>
           <p><strong>React, Firebase, Vite</strong> - Interactive chess game featuring AI opponent with integrated leaderboard to track top players.</p>
@@ -118,7 +120,9 @@ I'm a Software Engineer with expertise in React, Golang, and Flutter development
       <td width="50%">
         <h3 align="center">intelli-Traffic - Smart Traffic Solution</h3>
         <div align="center">
-          <a href="https://github.com/shashwatssp/intelli-Traffic" target="_blank"><img src="https://raw.githubusercontent.com/jsuarezruiz/awesome-dotnet-maui/master/images/dotnet-bot.png" width="100" alt="Project"/></a>
+          <a href="https://github.com/shashwatssp/intelli-Traffic" target="_blank">
+            <img src="https://raw.githubusercontent.com/shashwatssp/portfolio-assets/main/traffic-thumbnail.png" width="250" alt="Intelli-Traffic Project"/>
+          </a>
           <p>
             <a href="https://github.com/shashwatssp/intelli-Traffic" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
@@ -133,6 +137,7 @@ I'm a Software Engineer with expertise in React, Golang, and Flutter development
     </tr>
   </table>
 </div>
+
 
 ## 💼 Professional Experience
 

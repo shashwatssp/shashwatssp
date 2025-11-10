@@ -17,7 +17,7 @@
 ## 🧠 About Me
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRoYmptb2hkYmY1bHhjYWxsYjFncWhuajcwMGN5Y3RuNXRnZGlkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a Software Engineer with expertise in React and Flutter development. Currently working at Lowe's, I'm passionate about building efficient and user-friendly applications. With a strong foundation in competitive programming (Pupil on Codeforces, 3-Star on CodeChef) and 1600+ solved problems across platforms, I bring analytical problem-solving skills to every project.
+I'm a Software Engineer with expertise in React and Flutter development. Currently working at Lowe's, I'm passionate about building efficient and user-friendly applications. With a strong foundation in competitive programming (Specialist on Codeforces, 1700+ rated on Leetcode, 3-Star on CodeChef) and 1600+ solved problems across platforms, I bring analytical problem-solving skills to every project.
 
 
 ## 🛠️ Skills & Technologies
@@ -172,7 +172,8 @@ I'm a Software Engineer with expertise in React and Flutter development. Current
       <td>
         <h3>Competitive Programming</h3>
         <ul>
-          <li>Pupil on <a href="https://codeforces.com/profile/shashwatssp">Codeforces</a> (Max Rating: 1376)</li>
+          <li>Specialist on <a href="https://codeforces.com/profile/shashwatssp">Codeforces</a> (Max Rating: 1425)</li>
+          <li>1700+ rated on <a href="https://leetcode.com/u/shashwatssp">Leetcode</a></li>
           <li>3-Star Coder on <a href="https://www.codechef.com/users/shashwatssp">CodeChef</a> (Max Rating: 1690)</li>
           <li>Global Rank 49 in <a href="https://www.codechef.com/rankings/START102C?itemsPerPage=100&order=asc&page=1&search=shashwatssp&sortBy=rank">CodeChef Starters 102</a></li>
           <li>Global Rank 156 in <a href="https://www.codechef.com/rankings/START67B?itemsPerPage=100&order=asc&page=1&search=shashwatssp&sortBy=rank">CodeChef Starters 67</a></li>

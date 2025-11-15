@@ -88,7 +88,7 @@ With a strong foundation in competitive programming (Specialist on Codeforces, 1
               <img src="https://img.shields.io/badge/MCP_Server-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
             </a>
           </p>
-          <p><strong>React, Go, TypeScript, Cloudflare Workers, MongoDB</strong></p>
+          <p><strong>React, Go, TypeScript, LangChain, Cloudflare Workers, MongoDB</strong></p>
           <p>AI-powered streaming platform with Model Context Protocol integration and global edge caching across 300+ locations. Features 99% cache hit rate, 20-50x faster responses, and intelligent AI-driven search.</p>
         </div>
       </td>

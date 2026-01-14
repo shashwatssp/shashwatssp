@@ -1,6 +1,6 @@
 # Shashwat Shagun Pandey
 
-## 👨‍💻 Software Engineer | React | Go | Flutter Developer
+## 👨‍💻 Software Engineer | React | Go | Kubernetes | Flutter Developer
 
 <div align="center">
   
@@ -19,7 +19,7 @@
 ## 🧠 About Me
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRoYmptb2hkYmY1bHhjYWxsYjFncWhuajcwMGN5Y3RuNXRnZGlkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a Software Engineer with expertise in React, Go, and Flutter development. Currently working at Lowe's, I'm passionate about building efficient, scalable applications with cutting-edge technologies like AI integration, edge computing, and distributed systems.
+I'm a Software Engineer with expertise in React, Go, Kubernetes, and Flutter development. Currently working at Lowe's, I'm passionate about building efficient, scalable applications with cutting-edge technologies like AI integration, edge computing, and distributed systems.
 
 With a strong foundation in competitive programming (Specialist on Codeforces, 1700+ rated on LeetCode, 3-Star on CodeChef) and 1600+ solved problems across platforms, I bring analytical problem-solving skills to every project.
 
